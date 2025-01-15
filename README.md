@@ -1,4 +1,4 @@
-### 인격체 지향 프로그래밍 (Person-Oriented Programming, POP), 2025
+## 인격체 지향 프로그래밍 (Person-Oriented Programming, POP), 2025
 ### sukipi 수키피
 #### 188KB~
 #### Java
