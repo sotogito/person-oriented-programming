@@ -16,4 +16,16 @@ public class Person {
         this.profile = profile;
     }
 
+    public void eat(){
+
+    }
+
+    public void sleep(){
+
+    }
+
+    public void poop(){
+
+    }
+
 }
